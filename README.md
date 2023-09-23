@@ -4,7 +4,8 @@
 <h3 align="center">A passionate computer engineering student at The American University in Cairo who enjoys a wide range of applications of technologies. I enjoy working with languages such as Python and C++. I also enjoy dealing with data and making it come to life in many forms, such as video games and game development.</h3>
 
 
-<p>📬. How to reach me: [Marwan](mailto:MarwanMo11@aucegypt.edu)
+<p>📬. How to reach me: <a href="mailto:MarwanMo11@aucegypt.edu">Marwan</a></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
