@@ -7,7 +7,7 @@
 
 <p>📬. How to reach me: <a href="mailto:MarwanMo11@aucegypt.edu">Marwan</a></p>
 
-<img align="center" src="https://ibb.co/xmz1YPb" alt="Your Image Description" />
+<a href="https://ibb.co/xmz1YPb"><img src="https://i.ibb.co/q0mNCX8/Screenshot-2023-09-23-233512.png" alt="Screenshot-2023-09-23-233512" border="0"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
