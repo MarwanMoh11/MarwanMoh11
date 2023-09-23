@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Marwan Abudaif</h1>
+<h1 align="center">Hi 👋, I'm Marwan Abudaif</h1
+![GitHub Logo](C:\Users\Marwan\Downloads)                                             
 <h3 align="center">A passionate computer engineering student at The American University in Cairo who enjoys a wide range of applications of technologies. I enjoy working with languages such as Python and C++. I also enjoy dealing with data and making it come to life in many forms, such as video games and game development.</h3>
 
 <h3 align="left">Connect with me:</h3>
