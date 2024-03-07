@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leetcode**
 
-- 🌱 I’m currently mastering **Applied Data Structures and algorithms**
+- 🌱 I’m currently mastering **Analysis and Design of Algoirthms**
 
 - 🤝 I’m looking for help with **Summer Internships**
 
