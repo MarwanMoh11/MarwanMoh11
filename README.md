@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Marwan Abudaif</h1>
-<h3 align="center">A passionate computer engineering student at The American University in Cairo who enjoys a wide range of applications of technologies. I enjoy working with languages such as Python and C++. I also enjoy dealing with data and making it come to life in many forms, such as video games and game development.</h3>
+## Hi, I'm Marwan
 
-- 🔭 I’m currently working on **Leetcode**
+I'm a software engineer at METI (Micro Engineering Tech), and I finish my Computer Engineering degree at the American University in Cairo in December 2026. I live in Cairo, hold UAE residency, and work in English and Arabic.
 
-- 🌱 I’m currently mastering **Analysis and Design of Algoirthms**
+At work I build full-stack products with Laravel, Next.js and Angular. On my own time I build real-time things: browser games with their own netcode, a native iPhone and Apple Watch app, and firmware for a Cortex-M4. The bugs I enjoy most only show up under load.
 
-- 🤝 I’m looking for help with **Summer Internships**
+[Portfolio](https://marwanmoh11.github.io) · [CV (PDF)](https://marwanmoh11.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/marwan-abudaif-088567283/) · marwanabudaif5@gmail.com
 
-- ⚡ Fun fact **I ❤️ Video games**
+### Selected work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/marwan-abudaif-088567283?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BLhbULkH0RKGzK8bl2mk68A%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marwan abudaif" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marwanmo11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marwanmo11" height="30" width="40" /></a>
-</p>
+**[GeoFighters 2.0](https://github.com/MarwanMoh11/Geo-FightersV2)** ([play it](https://marwanmoh11.github.io/Geo-FightersV2/))
+A co-op 3D survival shooter that runs in the browser, about 45k lines of TypeScript. Players connect host-star over WebRTC, and 30 Hz snapshots travel on unreliable, unordered data channels so a lost packet never holds up a newer one. When ICE fails, that player falls back to a socket.io relay.
+`TypeScript` `Three.js` `Svelte 5` `Rapier` `miniplex ECS` `WebRTC`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+**[GymTrack](https://github.com/MarwanMoh11/Gymtrack)**
+A strength tracker for iPhone and Apple Watch. The phone owns the data and the watch mirrors it, so a set logged on the wrist is saved on the phone and the two screens stay in sync. Live workouts run through HealthKit. It also has widgets, a Live Activity for the rest timer and Siri shortcuts, with no third-party dependencies.
+`Swift` `SwiftUI` `SwiftData` `HealthKit` `WatchConnectivity`
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwanmoh11&show_icons=true&locale=en&layout=compact" alt="marwanmoh11" /></p>
+**[Emberhold](https://github.com/MarwanMoh11/emberhold)** ([play it](https://marwanmoh11.github.io/emberhold/))
+Horde survival on top of a settlement-building loop, playable on desktop and phone. All of the art, sound and terrain is generated in code at boot, so the repository has no asset files.
+`TypeScript` `Phaser 3` `Vite`
+
+**[smart-redlight-tm4c123](https://github.com/MarwanMoh11/smart-redlight-tm4c123)**
+A red-light violation detector on a TI Tiva C board (ARM Cortex-M4). Six FreeRTOS tasks communicate only through queues, and a dwell-time filter on the ultrasonic sensor ignores fast swipes and parked objects. Built with a hand-written Makefile.
+`C` `FreeRTOS` `arm-none-eabi-gcc` `TivaWare`
+
+**[Pixel-Perfect](https://github.com/MarwanMoh11/Pixel-Perfect)**
+4x super-resolution for pixel art, built with one teammate. I wrote the ESRGAN model, the training loop and the losses. Training pairs are downsampled with nearest-neighbour and an edge-aware loss penalises blur, so upscaled sprites keep their hard edges.
+`Python` `PyTorch`
+
+**[Digital_Design_I](https://github.com/MarwanMoh11/Digital_Design_I)**
+An event-driven gate-level logic simulator from a course group project. It reads per-gate propagation delays from a cell library and schedules each output change on a time-ordered priority queue.
+`C++`
+
+### At work
+
+At METI I've shipped four products back to back since June 2025:
+
+- **MVS Client Portal:** sole engineer on a multi-tenant Laravel 12 and Next.js 16 portal with nine features across three roles, backed by 49 test classes.
+- **GuloGulo:** a geospatial AI platform built by a team of seven. I owned chat, datasets and settings, including a resumable multipart upload engine and a hand-written SSE client that falls back to polling.
+- **Aqtar:** a Saudi B2B geospatial services marketplace built by about ten engineers. I owned ratings and reviews, content moderation, admin user management and the English/Arabic localisation layer.
+- **AI Author Tool:** an Angular platform that turns uploaded documents into structured courses.
+
+That code is private. The portfolio has the details.
+
+### Right now
+
+I'm leading a seven-person senior thesis, TELOS II, which tests whether a recommender can adapt to evidence while holding its position under conversational pressure. A versioned, SHA-256-pinned deterministic policy makes every decision, and the language model only writes the response.
+
+### Tools
+
+**Languages:** TypeScript, Python, PHP, Swift, C, C++, SQL
+**Web:** React, Next.js, Angular, Svelte, Tailwind, Laravel, FastAPI, Node.js
+**Data:** PostgreSQL with PostGIS, MySQL, SwiftData, Firebase
+**Real-time and graphics:** Three.js, WebRTC, Server-Sent Events, Phaser
+**Mobile and embedded:** SwiftUI, Capacitor, FreeRTOS on ARM Cortex-M4
